@@ -1,11 +1,11 @@
-# FONDEMENT DES RESEAUX et CISCO : Connexion IPv4/IPv6 et sous-réseaux dimensionnés
+# FONDEMENT DES RESEAUX et CISCO : Connexion IPv4/IPv6 et sous-réseaux dimensionnés.
 
-Contexte & Objectif : 
+# Contexte & Objectif : 
 
 Projet d'équipe (L1, UE Fondement des réseaux) et Évaluations de compétences Cisco (Packet Tracer). L'objectif est de concevoir, maquette et configurer un réseau d'entreprise complet assurant la connectivité double pile (IPv4/IPv6) et la sécurisation des accès. 
 
 
-Détails Techniques & Concepts Clés :
+# Détails Techniques & Concepts Clés :
 
 • Adressage VLSM : Découpage précis d'un réseau (ex: 192.168.10.0/24 ou 10.19.8.0) en sous-réseaux de tailles variables (ex: /25 pour 100 hôtes, /26 pour 50 hôtes) pour optimiser l'espace d'adressage.
 
@@ -14,7 +14,7 @@ Détails Techniques & Concepts Clés :
 • Protocoles & Sécurité : VLANs, Trunking 802.1Q, EtherChannel (LACP), DHCP, Routage inter-VLAN, SSH, RSA, Port Security, et sécurisation des ports inutilisés. 
 
 
-Cheminement de réalisation (Synopsis) :
+# Cheminement de réalisation (Synopsis) :
 
 1. Topologie et Câblage : Placement des équipements (Routeur R1, Switchs S1/S2, PC) dans la baie de brassage et câblage selon le schéma logique.
 
